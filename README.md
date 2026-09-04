@@ -19,3 +19,15 @@ Solutions are automatically synced from LeetCode using LeetHub.
 - Graphs
 - Dynamic Programming
 - Recursion & Backtracking
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+<!---LeetCode Topics End-->
