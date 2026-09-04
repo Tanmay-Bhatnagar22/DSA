@@ -25,9 +25,11 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
