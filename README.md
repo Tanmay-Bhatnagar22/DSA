@@ -26,6 +26,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -34,4 +35,8 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
