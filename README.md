@@ -7,19 +7,6 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Language
 - C++
 
-## Topics
-- Arrays
-- Strings
-- Two Pointers
-- Sliding Window
-- Hashing
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-- Recursion & Backtracking
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
