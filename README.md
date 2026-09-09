@@ -37,6 +37,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +64,9 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
