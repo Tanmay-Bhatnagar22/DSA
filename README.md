@@ -54,6 +54,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
