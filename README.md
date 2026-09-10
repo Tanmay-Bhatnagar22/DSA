@@ -13,6 +13,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -63,11 +64,13 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
