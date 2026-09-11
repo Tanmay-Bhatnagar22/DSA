@@ -38,6 +38,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -72,6 +73,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
@@ -89,6 +91,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
