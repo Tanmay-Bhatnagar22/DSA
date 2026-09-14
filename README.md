@@ -63,6 +63,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Matrix
@@ -124,4 +125,8 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0649-dota2-senate/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
