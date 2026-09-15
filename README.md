@@ -45,11 +45,13 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0649-dota2-senate/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +140,5 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
