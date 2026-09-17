@@ -90,6 +90,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -146,10 +147,12 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0206-reverse-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
