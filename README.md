@@ -105,6 +105,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -112,6 +113,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -119,6 +121,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
