@@ -59,6 +59,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -109,6 +110,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -117,6 +119,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
@@ -125,6 +128,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
@@ -196,4 +200,8 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
