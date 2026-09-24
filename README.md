@@ -24,6 +24,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -86,6 +87,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Matrix
