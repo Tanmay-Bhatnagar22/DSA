@@ -57,6 +57,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0649-dota2-senate](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -114,6 +115,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
@@ -248,4 +250,8 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
