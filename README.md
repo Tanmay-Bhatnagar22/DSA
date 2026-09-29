@@ -20,6 +20,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -73,6 +74,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -102,6 +104,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0835-image-overlap/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -260,4 +263,5 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
