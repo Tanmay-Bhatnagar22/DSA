@@ -53,6 +53,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0649-dota2-senate/) | Medium |
@@ -117,6 +118,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -269,6 +271,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
