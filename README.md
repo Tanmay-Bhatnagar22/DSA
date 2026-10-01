@@ -12,6 +12,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0835-image-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0835-image-overlap/) | Medium |
@@ -56,6 +57,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0020-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0649-dota2-senate](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -147,6 +149,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -237,6 +240,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -279,11 +283,25 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
