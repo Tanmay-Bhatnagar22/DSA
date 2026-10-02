@@ -20,6 +20,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -110,6 +111,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0835-image-overlap/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
@@ -249,6 +251,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
