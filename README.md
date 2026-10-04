@@ -12,6 +12,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -93,6 +94,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -323,4 +325,16 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
