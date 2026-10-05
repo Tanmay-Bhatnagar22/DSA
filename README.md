@@ -52,6 +52,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
@@ -209,6 +210,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,8 +338,13 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
