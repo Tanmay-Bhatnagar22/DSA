@@ -26,6 +26,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -101,6 +102,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +346,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2336-smallest-number-in-infinite-set/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
