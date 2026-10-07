@@ -63,6 +63,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0022-generate-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0649-dota2-senate](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0649-dota2-senate/) | Medium |
@@ -265,6 +266,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -294,6 +296,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
