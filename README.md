@@ -12,6 +12,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -218,6 +219,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
