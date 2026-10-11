@@ -18,6 +18,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0835-image-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0835-image-overlap/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -223,6 +224,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
