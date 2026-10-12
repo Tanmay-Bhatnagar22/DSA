@@ -52,6 +52,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -67,6 +68,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
@@ -321,6 +323,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
