@@ -39,6 +39,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -119,6 +120,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
