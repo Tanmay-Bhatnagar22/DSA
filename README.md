@@ -14,6 +14,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0216-combination-sum-iii/) | Medium |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0724-find-pivot-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -328,6 +329,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Search Tree
