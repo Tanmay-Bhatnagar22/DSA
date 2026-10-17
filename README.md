@@ -42,6 +42,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -71,6 +72,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
