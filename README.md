@@ -23,6 +23,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0994-rotting-oranges](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -112,6 +113,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1137-n-th-tribonacci-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -140,6 +142,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0836-rectangle-overlap](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -194,6 +197,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -224,6 +228,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -298,6 +303,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -350,6 +356,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +384,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +401,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,9 +430,14 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
