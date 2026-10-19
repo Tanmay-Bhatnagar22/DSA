@@ -27,6 +27,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -126,6 +127,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [1096-brace-expansion-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
@@ -249,6 +251,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0875-koko-eating-bananas](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
