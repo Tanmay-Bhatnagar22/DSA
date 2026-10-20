@@ -46,6 +46,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -134,6 +135,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +246,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
