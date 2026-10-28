@@ -49,6 +49,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -127,6 +128,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +452,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
