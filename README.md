@@ -37,6 +37,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2352-equal-row-and-column-pairs](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -143,6 +144,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -301,6 +303,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmay-Bhatnagar22/DSA/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
